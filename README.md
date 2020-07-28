@@ -1,2 +1,2 @@
 # aws-assume-role
-Dockerized utility for getting assuming an aws role
+Dockerized utility for assuming an aws role
